@@ -1,0 +1,93 @@
+/* body */
+
+body {
+  color: #333;
+}
+
+/* header */
+
+.header {
+  height: 100px;
+  width: 100%;
+  background-color: #62abd8;
+}
+
+.site-name {
+  float: left;
+  font-size: 35px;
+  font-family: 'ヒラギノ明朝 ProN W3';
+  line-height: 40px;
+}
+
+.header-menu {
+  font-size: 20px;
+  font-family: 'Noto Serif JP', serif;
+  float: left;
+}
+
+.insta-icon {
+}
+
+.insta-icon img {
+  width: 48px;
+  height: 48px;
+}
+
+/* key-image */
+
+.key-image {
+  padding: 50px 0;
+  text-align: center;
+}
+
+/* content */
+
+.content {
+}
+
+.content-title {
+  line-height: 30px;
+  font-family: '游明朝体';
+}
+
+.content-title-name {
+  font-size: 50px;
+  border-bottom: solid 1px #333;
+}
+
+.content-title-treat {
+  font-size: 25px;
+}
+
+/* concept */
+
+.concept {
+  padding: 120px 133px;
+  background-color: #f2d378;
+}
+
+#concept-treat {
+  margin-left: 62px;
+}
+
+.concept-detail {
+  text-align: center;
+  font-family: '游ゴシック';
+  font-size: 20px;
+  line-height: 35px;
+}
+
+.concept-img {
+  text-align: center;
+}
+
+/* menu */
+
+.menu {
+  padding: 120px 133px;
+  background-color: #fff;
+}
+
+#menu-treat {
+  margin-left: 32px;
+}
